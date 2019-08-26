@@ -1,0 +1,2470 @@
+1566585481a:1:{s:9:"index.htm";a:9:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:79757:"title = "home"
+url = "/"
+layout = "default"
+is_hidden = 0
+==
+<div class="page-wrapper">
+	
+  <!-- Main Header-->
+    <header class="main-header header-style-one">
+        <!-- Header Top -->
+    	<div class="header-top">
+        	<div class="auto-container clearfix">
+            	<!--Top Left-->
+            	<div class="top-left pull-left">
+                    <ul class="links-nav clearfix">
+                         	
+						<li><a href="#">Welcome To Our Museum</a></li>
+						 
+						 	 
+                        <li><a href="#"><span class="icon flaticon-telephone-handle-silhouette"></span>(357) 1279513</a></li>   
+						  
+						 	
+                        <li><a href="something@domain.com"><span class="icon fa fa-envelope-o"></span>something@domain.com</a></li>  
+						  
+                    </ul>
+                </div>
+                <!--Top Right-->
+            	<div class="top-right pull-right">
+                <!--Social Icon-->
+                				 	
+					<div class="social-icon">
+                          
+						<a href=""><span class="fa fa-facebook"></span></a>
+                        
+						<a href="#"><span class="fa fa-twitter"></span></a>
+                        
+						<a href="#"><span class="fa fa-google-plus"></span></a>
+                        
+						<a href="#"><span class="fa fa-linkedin"></span></a>
+                                       </div>
+			             		
+                </div>
+            </div>
+        </div>
+        <!-- Header Top End -->
+        
+        <!--Header-Upper-->
+        <div class="header-upper">
+        	<div class="auto-container">
+            	<div class="clearfix">
+                	
+                	<div class="pull-left logo-outer">
+                    	<div class="logo">
+						                             <a href="http://www.old2.commonsupport.com/alicante/"><img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/06/logo.png" alt="Theme" title="Theme"></a>
+                        	
+						</div>
+                    </div>
+                    
+                    <div class="pull-right upper-right clearfix">
+                    	
+                      	
+                        <div class="upper-column info-box">
+                        	<div class="icon-box"><span class="flaticon-pin"></span></div>
+                            <ul>
+                            	<li>HOUSE 320, ROAD 8/A, DHANMONDI R/A,DHAKA 1209</li>
+                            </ul>
+                        </div>
+                      
+                     	
+                        <div class="upper-column info-box">
+                        	<div class="icon-box"><span class="flaticon-clock-2"></span></div>
+                            <ul>
+                                <li>Office Hour: 10:00am - 5:00pm <br> Friday -Close</li>
+                            </ul>
+                        </div>
+                           
+                     
+                        <div class="upper-column info-box">
+						                        	<a href="#" class="quote-btn theme-btn btn-style-one">Appointment</a>
+                           
+						 </div>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <!--End Header Upper-->
+        
+        <!--Header Lower-->
+        <div class="header-lower">
+            
+        	<div class="auto-container">
+            	<div class="nav-outer clearfix">
+                    <!-- Main Menu -->
+                    <nav class="main-menu">
+                        <div class="navbar-header">
+                            <!-- Toggle Button -->    	
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        
+                        <div class="navbar-collapse collapse clearfix">
+                            <ul class="navigation clearfix">
+                                <li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-20 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-92 dropdown active"><a title="Home" href="http://www.old2.commonsupport.com/alicante/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Home</a>
+<ul role="menu" class="dropdown">
+	<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-20 current_page_item menu-item-83 active"><a title="Home One" href="http://www.old2.commonsupport.com/alicante/">Home One</a></li>
+	<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a title="Home Two" href="http://www.old2.commonsupport.com/alicante/home-two/">Home Two</a></li>
+	<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a title="Home Three" href="http://www.old2.commonsupport.com/alicante/home-three/">Home Three</a></li>
+	<li id="menu-item-589" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-589 dropdown"><a title="Header Style" href="#">Header Style</a>
+	<ul role="menu" class="dropdown">
+		<li id="menu-item-592" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-592 active"><a title="Header One" href="http://www.old2.commonsupport.com/alicante/">Header One</a></li>
+		<li id="menu-item-591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-591"><a title="Header Two" href="http://www.old2.commonsupport.com/alicante/?header_style=header_v3">Header Two</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-89 dropdown"><a title="About Us" href="http://www.old2.commonsupport.com/alicante/about-us-one/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">About Us</a>
+<ul role="menu" class="dropdown">
+	<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a title="About Us One" href="http://www.old2.commonsupport.com/alicante/about-us-one/">About Us One</a></li>
+	<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a title="About Us Two" href="http://www.old2.commonsupport.com/alicante/about-us-two/">About Us Two</a></li>
+</ul>
+</li>
+<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-86 dropdown"><a title="Pages" href="http://www.old2.commonsupport.com/alicante/pages/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Pages</a>
+<ul role="menu" class="dropdown">
+	<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a title="Sponsores" href="http://www.old2.commonsupport.com/alicante/sponsores/">Sponsores</a></li>
+	<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a title="404" href="http://www.old2.commonsupport.com/alicante/404-2/">404</a></li>
+</ul>
+</li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-79 dropdown"><a title="Events" href="http://www.old2.commonsupport.com/alicante/events/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Events</a>
+<ul role="menu" class="dropdown">
+	<li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a title="Events" href="http://www.old2.commonsupport.com/alicante/events/">Events</a></li>
+	<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a title="Events Single" href="http://www.old2.commonsupport.com/alicante/events-single/">Events Single</a></li>
+</ul>
+</li>
+<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-90 dropdown"><a title="Gallery" href="http://www.old2.commonsupport.com/alicante/gallery-3-column/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Gallery</a>
+<ul role="menu" class="dropdown">
+	<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a title="Gallery 3 Column" href="http://www.old2.commonsupport.com/alicante/gallery-3-column/">Gallery 3 Column</a></li>
+	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a title="Gallery Full Width" href="http://www.old2.commonsupport.com/alicante/gallery-full-width/">Gallery Full Width</a></li>
+</ul>
+</li>
+<li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a title="Shop" href="http://www.old2.commonsupport.com/alicante/shop/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Shop</a></li>
+<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-93 dropdown"><a title="Blog" href="http://www.old2.commonsupport.com/alicante/blog-classic/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Blog</a>
+<ul role="menu" class="dropdown">
+	<li id="menu-item-442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-442"><a title="Blog Classic" href="http://www.old2.commonsupport.com/alicante/blog-classic/page/3/">Blog Classic</a></li>
+	<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a title="Blog Grid" href="http://www.old2.commonsupport.com/alicante/blog-grid/">Blog Grid</a></li>
+	<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a title="Blog List" href="http://www.old2.commonsupport.com/alicante/blog-list/">Blog List</a></li>
+	<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-91"><a title="Single Post" href="http://www.old2.commonsupport.com/alicante/adventure-of-realistic-africa-arts-magna-volputate-aliqua-enim-3/">Single Post</a></li>
+</ul>
+</li>
+<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a title="Contact Us" href="http://www.old2.commonsupport.com/alicante/contact-us/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Contact Us</a></li>
+ 
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <!--End Header Lower-->
+        
+        <!--Sticky Header-->
+        <div class="sticky-header">
+        	<div class="auto-container clearfix">
+            	<!--Logo-->
+            	<div class="logo pull-left">
+                	                             <a href="http://www.old2.commonsupport.com/alicante/"><img src="http://www.old2.commonsupport.com/alicante/wp-content/themes/alicante/images/logo-small.png" alt="Theme"></a>
+                        	
+                </div>
+                
+                <!--Right Col-->
+                <div class="right-col pull-right">
+                	<!-- Main Menu -->
+                    <nav class="main-menu">
+                        <div class="navbar-header">
+                            <!-- Toggle Button -->    	
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        
+                        <div class="navbar-collapse collapse clearfix">
+                            <ul class="navigation clearfix">
+                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-20 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-92 dropdown active"><a title="Home" href="http://www.old2.commonsupport.com/alicante/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Home</a>
+<ul role="menu" class="dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-20 current_page_item menu-item-83 active"><a title="Home One" href="http://www.old2.commonsupport.com/alicante/">Home One</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a title="Home Two" href="http://www.old2.commonsupport.com/alicante/home-two/">Home Two</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a title="Home Three" href="http://www.old2.commonsupport.com/alicante/home-three/">Home Three</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-589 dropdown"><a title="Header Style" href="#">Header Style</a>
+	<ul role="menu" class="dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-592 active"><a title="Header One" href="http://www.old2.commonsupport.com/alicante/">Header One</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-591"><a title="Header Two" href="http://www.old2.commonsupport.com/alicante/?header_style=header_v3">Header Two</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-89 dropdown"><a title="About Us" href="http://www.old2.commonsupport.com/alicante/about-us-one/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">About Us</a>
+<ul role="menu" class="dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a title="About Us One" href="http://www.old2.commonsupport.com/alicante/about-us-one/">About Us One</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a title="About Us Two" href="http://www.old2.commonsupport.com/alicante/about-us-two/">About Us Two</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-86 dropdown"><a title="Pages" href="http://www.old2.commonsupport.com/alicante/pages/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Pages</a>
+<ul role="menu" class="dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a title="Sponsores" href="http://www.old2.commonsupport.com/alicante/sponsores/">Sponsores</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a title="404" href="http://www.old2.commonsupport.com/alicante/404-2/">404</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-79 dropdown"><a title="Events" href="http://www.old2.commonsupport.com/alicante/events/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Events</a>
+<ul role="menu" class="dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a title="Events" href="http://www.old2.commonsupport.com/alicante/events/">Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a title="Events Single" href="http://www.old2.commonsupport.com/alicante/events-single/">Events Single</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-90 dropdown"><a title="Gallery" href="http://www.old2.commonsupport.com/alicante/gallery-3-column/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Gallery</a>
+<ul role="menu" class="dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a title="Gallery 3 Column" href="http://www.old2.commonsupport.com/alicante/gallery-3-column/">Gallery 3 Column</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a title="Gallery Full Width" href="http://www.old2.commonsupport.com/alicante/gallery-full-width/">Gallery Full Width</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a title="Shop" href="http://www.old2.commonsupport.com/alicante/shop/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-93 dropdown"><a title="Blog" href="http://www.old2.commonsupport.com/alicante/blog-classic/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Blog</a>
+<ul role="menu" class="dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-442"><a title="Blog Classic" href="http://www.old2.commonsupport.com/alicante/blog-classic/page/3/">Blog Classic</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a title="Blog Grid" href="http://www.old2.commonsupport.com/alicante/blog-grid/">Blog Grid</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a title="Blog List" href="http://www.old2.commonsupport.com/alicante/blog-list/">Blog List</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-91"><a title="Single Post" href="http://www.old2.commonsupport.com/alicante/adventure-of-realistic-africa-arts-magna-volputate-aliqua-enim-3/">Single Post</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a title="Contact Us" href="http://www.old2.commonsupport.com/alicante/contact-us/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Contact Us</a></li>
+ 
+                            </ul>
+                        </div>
+                    </nav><!-- Main Menu End-->
+                </div>
+                
+            </div>
+        </div>
+        <!--End Sticky Header-->
+    
+    </header>
+    <!--End Main Header -->	
+	    <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element main-slider"><link href="http://fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.3.1.5 auto mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.3.1.5">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/image-1-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/image-1.jpg"  alt="" title="image-1"  width="1920" height="870" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-1-layer-1" 
+			 data-x="center" data-hoffset="" 
+			 data-y="center" data-voffset="-63" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><h4 class="text-center">100+ Arts in one place</h4> </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-1-layer-2" 
+			 data-x="center" data-hoffset="" 
+			 data-y="center" data-voffset="27" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><h2 class="text-center">Museum is the Place where you can see <br> wonder & Feel!</h2> </div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-1-layer-3" 
+			 data-x="center" data-hoffset="-5" 
+			 data-y="center" data-voffset="122" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><a href="#" class="theme-btn btn-style-two">Explore</a> </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-2" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/image-2-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/image-2.jpg"  alt="" title="image-2"  width="1920" height="874" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-2-layer-1" 
+			 data-x="center" data-hoffset="2" 
+			 data-y="center" data-voffset="-64" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><h4 class="white-text">welcome to our museum</h4> </div>
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-2-layer-2" 
+			 data-x="center" data-hoffset="" 
+			 data-y="445" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><h2>it’s not a museum. it’s place of ideas</h2> </div>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-2-layer-3" 
+			 data-x="center" data-hoffset="" 
+			 data-y="567" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><a href="contact.html" class="theme-btn btn-style-three">Read More</a> &ensp; <a href="contact.html" class="theme-btn btn-style-two">Explore</a> </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/image-3-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/image-3.jpg"  alt="" title="image-3"  width="1920" height="903" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 7 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-3-layer-1" 
+			 data-x="center" data-hoffset="1" 
+			 data-y="343" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><h4 class="text-center">Art is not what You see</h4> </div>
+
+		<!-- LAYER NR. 8 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-3-layer-2" 
+			 data-x="center" data-hoffset="2" 
+			 data-y="435" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><h2 class="text-center">Museume Is a Place Where One Should Lose <br> one’s head</h2> </div>
+
+		<!-- LAYER NR. 9 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-3-layer-3" 
+			 data-x="center" data-hoffset="" 
+			 data-y="567" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><a href="contact.html" class="theme-btn btn-style-two">Read More</a> &ensp; <a href="contact.html" class="theme-btn btn-style-three">Explore</a> </div>
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_1_1');
+					e.gridwidth = [1240];
+					e.gridheight = [868];
+							
+					e.sliderLayout = "auto";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi1;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_1_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_1_1");
+				}else{
+					revapi1 = tpj("#rev_slider_1_1").show().revolution({
+						sliderType:"standard",
+jsFileLocation:"//www.old2.commonsupport.com/alicante/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"auto",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							keyboardNavigation:"off",
+							keyboard_direction: "horizontal",
+							mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+							onHoverStop:"off",
+							arrows: {
+								style:"hesperiden",
+								enable:true,
+								hide_onmobile:false,
+								hide_onleave:false,
+								tmp:'',
+								left: {
+									h_align:"left",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								},
+								right: {
+									h_align:"right",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								}
+							}
+							,
+							bullets: {
+								enable:true,
+								hide_onmobile:false,
+								style:"hesperiden",
+								hide_onleave:false,
+								direction:"horizontal",
+								h_align:"center",
+								v_align:"bottom",
+								h_offset:0,
+								v_offset:20,
+								space:5,
+								tmp:''
+							}
+						},
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:1240,
+						gridheight:868,
+						lazyType:"none",
+						shadow:0,
+						spinner:"spinner0",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		<script>
+					var htmlDivCss = unescape(".hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3Argba%280%2C%200%2C%200%2C%201%29%3B%0A%7D%0A.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A20px%3B%0A%09color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82c%22%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82d%22%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A.hesperiden.tp-bullets%20%7B%0A%7D%0A.hesperiden.tp-bullets%3Abefore%20%7B%0A%09content%3A%22%20%22%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%20%20%20border-radius%3A8px%3B%0A%20%20%0A%7D%0A.hesperiden%20.tp-bullet%20%7B%0A%09width%3A12px%3B%0A%09height%3A12px%3B%0A%09position%3Aabsolute%3B%0A%09background%3A%20rgb%28153%2C%20153%2C%20153%29%3B%20%2F%2A%20old%20browsers%20%2A%2F%0A%20%20%20%20background%3A%20-moz-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2C%20rgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20ff3.6%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20chrome10%2B%2Csafari5.1%2B%20%2A%2F%0A%20%20%20%20background%3A%20-o-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20opera%2011.10%2B%20%2A%2F%0A%20%20%20%20background%3A%20-ms-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20ie10%2B%20%2A%2F%0A%20%20%20%20background%3A%20linear-gradient%28to%20bottom%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20w3c%20%2A%2F%0A%20%20%20%20filter%3A%20progid%3Adximagetransform.microsoft.gradient%28%20%0A%20%20%20%20startcolorstr%3D%22rgb%28153%2C%20153%2C%20153%29%22%2C%20endcolorstr%3D%22rgb%28225%2C%20225%2C%20225%29%22%2Cgradienttype%3D0%20%29%3B%20%2F%2A%20ie6-9%20%2A%2F%0A%09border%3A3px%20solid%20rgb%28229%2C%20229%2C%20229%29%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A.hesperiden%20.tp-bullet%3Ahover%2C%0A.hesperiden%20.tp-bullet.selected%20%7B%0A%09background%3Argb%28102%2C%20102%2C%20102%29%3B%0A%7D%0A.hesperiden%20.tp-bullet-image%20%7B%0A%7D%0A.hesperiden%20.tp-bullet-title%20%7B%0A%7D%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1494218396670"><div class="container"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"> <!--Museum Section-->
+    <section class="museum-section">
+    	<div class="auto-container">
+        	<div class="row clearfix">
+            	<!--Content Column-->
+                <div class="content-column pull-right col-md-6 col-sm-12 col-xs-12">
+					<div class="inner">
+						<!--Sec Title-->
+						<div class="sec-title">
+							<h3>HISTORY OF OUR MUSEUM</h3>
+							<h2>HISTORY OF OUR MUSEUM</h2>
+							<div class="separator"></div>
+						</div>
+						<div class="text">Ut Enim Ad Minim Veniam, Quis Nostrud Exercitation Ullamco Laboris Nisi Ut Aliquip Ex Ea Commodo Consequat. Duis Aute Irure Dolor In Reprehenderit In Voluptate Velit Esse Cillum Dolore Eu Fugiat Nulla Pariatur.Duis Aute Irure Dolor In Reprehenderit In Voluptate Vel Eu Fugiat Nulla Pariatur.</div>
+						<a href="" class="more-info">More Info  <span class="icon flaticon-right-arrow"></span></a>
+					</div>
+                </div>
+                <!--Image Column-->
+            	<div class="image-column pull-left col-md-6 col-sm-12 col-xs-12">
+                	<div class="image wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/muesem-1.png" alt="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">  <div class="museum-section">
+  <div class="auto-container">
+  <div class="info-section">
+	<div class="row clearfix">
+		<!--Column-->
+		   	 
+		<!--Column-->
+		<div class="info-column col-md-4 col-xs-12">
+			<div class="inner">
+				<h4>Museum Open</h4>
+				<h3>We are Open all day</h3>
+			</div>
+		</div>
+	 	 
+		<!--Column-->
+		<div class="info-column col-md-4 col-xs-12">
+			<div class="inner">
+				<h4>Events Mangement</h4>
+				<h3>We are Open all day</h3>
+			</div>
+		</div>
+	 	 
+		<!--Column-->
+		<div class="info-column col-md-4 col-xs-12">
+			<div class="inner">
+				<h4>Exhibition Open</h4>
+				<h3>We are Open all day</h3>
+			</div>
+		</div>
+	  
+	</div>
+</div>
+</div>
+</div>
+	
+	
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"> <!--About Museum-->
+    <section class="about-museum" style="background-image:url(http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-3.jpg);">
+    	<div class="auto-container">
+        	<!--Sec Title-->
+            <div class="sec-title">
+                <h3>ABOUT OUR MUSEUM</h3>
+                <h2>ON VIEW OF MUSEUM</h2>
+                <div class="separator"></div>
+                <div class="text">Then one day he was shooting at some food and up through the ground came a bubbling crude oil that is so lets make the most of this beautiful day since we are together space.</div>
+            </div>
+            
+           <div class="row clearfix">
+           	<!--video column-->
+           	<div class="video-column col-md-6 col-sm-12 col-xs-12">
+                <div class="video-box">
+                    <figure class="image">
+                <img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/video-1.jpg" alt="">
+                    </figure>
+                    <a href="" class="lightbox-image overlay-box"><span class="flaticon-arrow"></span></a>
+                </div>
+            </div>
+            <!--Content Column-->
+            <div class="content-column col-md-6 col-sm-12 col-xs-12">
+                <div class="inner">
+                	<h3>ARTS OF GLOBALLY COVERD</h3>
+                    <div class="text">Then one day he was shooting at some food and up through the ground came a bubbling crude oil that is so lets make the most of this beautiful.</div>
+                    <div class="row clearfix">
+                        <div class="column col-md-4 col-sm-6 col-xs-12">
+                        	<!--List Style One-->
+                            <ul class="list-style-one">
+                            		
+								<li><a href="#"></a></li>
+                               
+                            </ul>
+                        </div>
+                        <div class="column col-md-4 col-sm-6 col-xs-12">
+                            <!--List Style One-->
+                            <ul class="list-style-one">
+            		
+			<li><a href="#"></a></li>
+                               
+                            </ul>
+                        </div>
+                        <div class="column col-md-4 col-sm-6 col-xs-12">
+                            <!--List Style One-->
+                            <ul class="list-style-one">
+           		
+								<li><a href="#"></a></li>
+                               
+                            </ul>
+                        </div>
+                    </div>
+                    <a href="" class="read-more">More Details &ensp;<span class="icon fa fa-long-arrow-right"></span></a>
+                </div>
+            </div>
+           </div>     
+        </div>
+    </section>
+    <!--About Museum-->
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">   
+
+<!--This is All Five event Section Asset of Rashid-->
+
+ <!--Events Section-->
+    <section class="events-section">
+    	<div class="auto-container">
+        	<!--Sec Title-->
+                
+			<div class="sec-title">
+                 <h3></h3>
+                 <h2>UPCOMING EVENTS</h2>
+                <div class="separator"></div>
+                <div class="text">Then one day he was shooting at some food and up through the ground came a bubbling crude oil that is so lets make the most of this beautiful day since we are together space.</div>
+            </div>
+		                <div class="row clearfix">
+            	<!--Content Column-->
+            	<div class="content-column col-lg-6 col-md-8 col-sm-12 col-xs-12">
+                	<div class="inner clearfix">
+                    	<!--Event Blog-->
+                   
+					    <div class="event-block">
+                        	<div class="inner-box">
+                            	<div class="title-box">
+                                	<h3><a href="">NATIONAL CAR MUSEUM</a></h3>
+                                    <div class="event-date">9:15 am - 10:00 pm</div>
+                                </div>
+                                <div class="lower-box" style="background-image:url(http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/event-2.jpg);">
+                                	<div class="text">Then one day he was shooting at some food and up through the ground came ...</div>
+                                </div>
+                                <div class="event-date-box">
+                                	<div class="date">JANUARY 14 , 2017</div>
+                                    <div class="event-place">Sydney, Australia</div>
+                                </div>
+                            </div>
+                        </div>
+						
+                       
+					    <div class="event-block">
+                        	<div class="inner-box">
+                            	<div class="title-box">
+                                	<h3><a href="">BRITISH INSTRUMENTAL MUSEUM</a></h3>
+                                    <div class="event-date">9:15 am - 10:00 pm</div>
+                                </div>
+                                <div class="lower-box" style="background-image:url(http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/event-2.jpg);">
+                                	<div class="text">Then one day he was shooting at some food and up through the ground came ...</div>
+                                </div>
+                                <div class="event-date-box">
+                                	<div class="date">JANUARY 14 , 2017</div>
+                                    <div class="event-place">Lords, London</div>
+                                </div>
+                            </div>
+                        </div>
+						
+                     
+                        
+            <a class="view-all" href="">View All &ensp;<span class="icon fa fa-long-arrow-right"></span></a>
+			                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Image Box-->
+        <div class="image-box">
+        	<div class="image wow slideInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+            	<img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/event-1.png" alt="" />
+            </div>
+        </div>
+    </section>
+    <!--End Events Section-->
+    
+
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"> 
+
+   
+
+    <section class="testimonial-section" style="background-image:url(http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/2.png);">
+    	<div class="auto-container">
+        	
+            <!--Client Testimonial Carousel-->
+            <div class="client-testimonial-carousel owl-carousel owl-theme">
+                            <!--Testimonial Block Two-->
+                <div class="testimonial-block-two">
+                    <div class="inner-box">
+                    	<div class="quote-icon"><span class="icon flaticon-left-quote"></span></div>
+                        <div class="text">Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae&#8230;Sed ut perspiciatis, ...</div>
+                    </div>
+                </div>
+			                <!--Testimonial Block Two-->
+                <div class="testimonial-block-two">
+                    <div class="inner-box">
+                    	<div class="quote-icon"><span class="icon flaticon-left-quote"></span></div>
+                        <div class="text">Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae&#8230;Sed ut perspiciatis, ...</div>
+                    </div>
+                </div>
+			                <!--Testimonial Block Two-->
+                <div class="testimonial-block-two">
+                    <div class="inner-box">
+                    	<div class="quote-icon"><span class="icon flaticon-left-quote"></span></div>
+                        <div class="text">Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae&#8230;Sed ut perspiciatis, ...</div>
+                    </div>
+                </div>
+					
+				
+            </div>
+            
+            <!--Client Thumbs Carousel-->
+            <div class="client-thumb-outer">
+                <div class="client-thumbs-carousel owl-carousel owl-theme">
+                    
+					
+                    <div class="thumb-item">
+                    	<figure class="thumb-box"> <img width="80" height="80" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-3.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-3.jpg 80w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-3-55x55.jpg 55w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-3-70x70.jpg 70w" sizes="(max-width: 80px) 100vw, 80px" /></figure>
+                        <div class="thumb-content">
+                        	<h3>David Warner</h3>
+	                        <div class="designation">Visiter</div>
+                        </div>
+                    </div>
+					
+                    <div class="thumb-item">
+                    	<figure class="thumb-box"> <img width="80" height="80" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-1.jpg 80w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-1-55x55.jpg 55w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-1-70x70.jpg 70w" sizes="(max-width: 80px) 100vw, 80px" /></figure>
+                        <div class="thumb-content">
+                        	<h3>David Warner</h3>
+	                        <div class="designation">Visiter</div>
+                        </div>
+                    </div>
+					
+                    <div class="thumb-item">
+                    	<figure class="thumb-box"> <img width="80" height="80" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-2.jpg 80w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-2-55x55.jpg 55w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-2-70x70.jpg 70w" sizes="(max-width: 80px) 100vw, 80px" /></figure>
+                        <div class="thumb-content">
+                        	<h3>David Warner</h3>
+	                        <div class="designation">Visiter</div>
+                        </div>
+                    </div>
+					
+					
+                </div>
+            </div>
+            
+        </div>
+    </section>
+
+	
+
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">   
+   
+             
+	<!--News Section-->
+    <section class="news-section blog_custom">
+    	<div class="auto-container">
+        	
+                      <div class="sec-title">
+                <h3>RECENT NEWS</h3>
+                <h2>LATEST NEWS</h2>
+                <div class="separator"></div>
+                <div class="text">Then one day he was shooting at some food and up through the ground came a bubbling crude oil that is so lets make the most of this beautiful day since we are together space.</div>
+            </div>
+			
+             
+            
+			<!--blog Post-->
+            <div class="blog-post">
+                <div class="row clearfix">
+                    <!--Image Column-->
+                    <div class="image-column col-md-6 col-sm-12 col-xs-12">
+                        <div class="image">
+                            <a href="http://www.old2.commonsupport.com/alicante/africa-arts-magna-volputate-aliqua/"><img width="571" height="428" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/news-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/news-1.jpg 571w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/news-1-300x225.jpg 300w" sizes="(max-width: 571px) 100vw, 571px" /></a>
+                        </div>
+                    </div>
+                    <!--Content Column-->
+                    <div class="content-column col-md-6 col-sm-12 col-xs-12">
+                        <div class="inner">
+                            <div class="upper-box">
+                                <div class="news-time"><span>08</span>- May , 2017</div>
+                                <h3><a href="http://www.old2.commonsupport.com/alicante/africa-arts-magna-volputate-aliqua/">Africa Arts magna volputate aliquas</a></h3>
+                            </div>
+                            <div class="lower-box">
+                                <ul class="post-meta">
+									<li>Posted by :  admin</li>
+									<li><a href="#"><span class="icon fa fa-user"></span> </a></li>
+									<li><a href="#"><span class="icon fa fa-commenting-o"></span>Comment 0 </a></li>
+								</ul>
+                                <div class="text">
+                                    <p>Consectetur adipisicing elit, sed do eiusmod temporagi incididunt ut labore et dolore magna aliqsua quis nostrud exercitation.Consectetur adipisicing elit, sed do eiusmod temporagi incididunt ut labore et dolore magna aliqsua quis nostrud exercitation.Consectetur adipisicing elit, sed do eiusmod temporagi incididunt ut labore et dolore magna aliqsua quis nostrud exercitation. Consectetur adipisicing elit, sed do eiusmod</p>
+                                </div>
+                                <a class="read-more" href="http://www.old2.commonsupport.com/alicante/africa-arts-magna-volputate-aliqua/">Read More<span class="icon fa fa-long-arrow-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				
+            </div>
+				        </div>
+    </section>
+    <!--End News Section-->		
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid">
+
+<div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">	 
+
+<!--portfolio Section-->
+   <!--Gallery Section / Full Width Section-->
+    <section class="gallery-section full-width-section" style="background-image:url(http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-8.jpg);">
+    
+    	<div class="auto-container">
+        	<!--Sec Title-->
+                 
+			<div class="sec-title">
+                 <h3>RECENT CLICKS</h3>
+                 <h2>OUR GALLERY</h2>
+                <div class="separator"></div>
+                <div class="text"></div>
+            </div>
+		            </div>
+        
+        <!--Sortable Gallery-->
+        <div class="mixitup-gallery">
+        
+            <!--Filter-->
+            <div class="filters clearfix">
+                <ul class="filter-tabs filter-btns text-center">
+                    <li class="filter active" data-role="button" data-filter="all">All Projects</li>
+                    
+			<li class="filter" data-role="button" data-filter=".others">Others</li>
+                     
+			<li class="filter" data-role="button" data-filter=".vintage-art">Vintage Art</li>
+                     
+			<li class="filter" data-role="button" data-filter=".ancient-statue">Ancient Statue</li>
+                     
+			<li class="filter" data-role="button" data-filter=".modern-art">Modern Art</li>
+                    
+                </ul>
+            </div>
+            
+            <div class="filter-list clearfix">
+			
+						
+           
+		        
+          <div class="default-portfolio-item mix all others vintage-art  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all ancient-statue modern-art others  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all ancient-statue modern-art  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all ancient-statue modern-art  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="http://localhost/alicante/wp-admin/post.php?post=223&#038;action=edit" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="http://localhost/alicante/wp-admin/post.php?post=223&#038;action=edit">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all modern-art others  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all modern-art others  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all ancient-statue vintage-art  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/7.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/7.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all vintage-art  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href=""></a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+  
+   
+             </div>
+			 <br><br><br>
+    		
+        </div>
+        <!--End Sortable Gallery-->
+    </section>
+    <!--End Gallery Section-->
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">   
+  
+
+     <section class="sponsors-section">
+    	<div class="auto-container">
+        	<div class="carousel-outer">
+                <!--Sponsors Slider-->
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                     
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                      
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                      
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                      
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/10-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                      
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                      
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                      
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/10.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                       
+                </ul>
+            </div>
+    	</div>
+    </section>
+	
+	
+</div></div></div></div>
+	<!--Mian Footer-->
+	
+   <!--Main Footer-->
+    <footer class="main-footer">
+    	<div class="auto-container">
+        	
+		 	
+            <div class="upper-box">
+            	<div class="logo-box">
+                	                             <a href="http://www.old2.commonsupport.com/alicante/"><img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/06/logo_footer.png" alt="Theme" title="Theme"></a>
+                        	
+                </div>
+            </div>
+			
+         
+            <div class="widgets-section">
+                <!--Big Column-->
+				    
+				   						<div class="row clearfix">
+							<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"> <div id="bunch_about_us-2"  class="posts-widget footer-widget widget_bunch_about_us">      		<div class="footer-column">
+				<div class="footer-widget about-widget">
+			<h2>About Museum</h2>					<!--Widget Content-->
+					<div class="widget-content">
+						<div class="bold-text">The Museum Specialists!</div>
+						 <div class="text">Aorem ipsum dolor sit amet elit sed lum tempor incididunt ut labore el dolore alg minim veniam quis nostrud lorem psum dolor sit amet sed incididunt.</div>
+						<a href="https://tonatheme.com/m3/alicante/about-us-one/" class="read-more">Read More &ensp;<span class="icon flaticon-right-arrow"></span></a>
+					</div>
+				</div>
+			</div>
+		</div></div><div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"> <div id="text-2"  class="posts-widget footer-widget widget_text"><h2>Quick Links</h2>			<div class="textwidget"><ul class="list">
+                                            <li><a href="#">About Our Museum</a></li>
+                                            <li><a href="#">On View Of Museum</a></li>
+                                            <li><a href="#">Upcoming Exhibitions</a></li>
+                                            <li><a href="#">Our Latest News</a></li>
+                                            <li><a href="#">Latest Clicks of Museum</a></li>
+                                        </ul></div>
+		</div></div><div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"> <div id="bunch_conatct_info-2"  class="posts-widget footer-widget widget_bunch_conatct_info">        <!--Footer Column / Address Widget-->
+		<div class="footer-widget info-widget">
+		<h2>Keep In Touch</h2>			<!--Widget Content-->
+			<div class="widget-content">
+				<!--Contact Info-->
+				<ul class="contact-info">
+					<li><div class="icon"><span class="flaticon-location-pin"></span></div>Collins Street West,121 <br />
+King Street, Melbourne.</li>
+					<li><div class="icon"><span class="flaticon-technology-1"></span></div>+(11)123 456 7890,</li>
+					<li><div class="icon"><span class="flaticon-interface"></span></div>info@museum.com</li>
+				</ul>
+			</div>
+		</div>
+
+		</div></div><div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"> <div id="bunch_footer_gallery_post-2"  class="posts-widget footer-widget widget_bunch_footer_gallery_post">		
+		<div class="gallery-widget">
+            <h2>Gallery Widget</h2>             <div class="widget-content">
+                <div class="images-outer clearfix">
+			        
+        
+				                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/7.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/7.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/7.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/7-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                
+                     </div> 
+			 </div>
+        </div>
+        
+        </div></div>						</div>
+					 
+					
+             </div>
+				 
+        </div>
+      
+         
+        <div class="footer-bottom">
+        	<div class="auto-container">
+            	<div class="row clearfix">
+                	<div class="column col-md-6 col-sm-12 col-xs-12">
+                    	<div class="copyright">All right Reserved Allicante  || 2017 </div>
+                    </div>
+ 	
+                    <div class="column col-md-6 col-sm-12 col-xs-12">
+                    	<div class="social-links">
+                             
+							<a href=""><span class="fa fa-facebook"></span></a>
+                              
+							<a href="#"><span class="fa fa-twitter"></span></a>
+                              
+							<a href="#"><span class="fa fa-google-plus"></span></a>
+                              
+							<a href="#"><span class="fa fa-linkedin"></span></a>
+                                                 </div>
+                    </div>
+				             	
+                </div>
+            </div>
+        </div>
+			
+    </footer>
+    <!--End Main Footer-->
+	
+</div>";s:5:"mtime";i:1566584769;s:6:"markup";s:79691:"<div class="page-wrapper">
+	
+  <!-- Main Header-->
+    <header class="main-header header-style-one">
+        <!-- Header Top -->
+    	<div class="header-top">
+        	<div class="auto-container clearfix">
+            	<!--Top Left-->
+            	<div class="top-left pull-left">
+                    <ul class="links-nav clearfix">
+                         	
+						<li><a href="#">Welcome To Our Museum</a></li>
+						 
+						 	 
+                        <li><a href="#"><span class="icon flaticon-telephone-handle-silhouette"></span>(357) 1279513</a></li>   
+						  
+						 	
+                        <li><a href="something@domain.com"><span class="icon fa fa-envelope-o"></span>something@domain.com</a></li>  
+						  
+                    </ul>
+                </div>
+                <!--Top Right-->
+            	<div class="top-right pull-right">
+                <!--Social Icon-->
+                				 	
+					<div class="social-icon">
+                          
+						<a href=""><span class="fa fa-facebook"></span></a>
+                        
+						<a href="#"><span class="fa fa-twitter"></span></a>
+                        
+						<a href="#"><span class="fa fa-google-plus"></span></a>
+                        
+						<a href="#"><span class="fa fa-linkedin"></span></a>
+                                       </div>
+			             		
+                </div>
+            </div>
+        </div>
+        <!-- Header Top End -->
+        
+        <!--Header-Upper-->
+        <div class="header-upper">
+        	<div class="auto-container">
+            	<div class="clearfix">
+                	
+                	<div class="pull-left logo-outer">
+                    	<div class="logo">
+						                             <a href="http://www.old2.commonsupport.com/alicante/"><img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/06/logo.png" alt="Theme" title="Theme"></a>
+                        	
+						</div>
+                    </div>
+                    
+                    <div class="pull-right upper-right clearfix">
+                    	
+                      	
+                        <div class="upper-column info-box">
+                        	<div class="icon-box"><span class="flaticon-pin"></span></div>
+                            <ul>
+                            	<li>HOUSE 320, ROAD 8/A, DHANMONDI R/A,DHAKA 1209</li>
+                            </ul>
+                        </div>
+                      
+                     	
+                        <div class="upper-column info-box">
+                        	<div class="icon-box"><span class="flaticon-clock-2"></span></div>
+                            <ul>
+                                <li>Office Hour: 10:00am - 5:00pm <br> Friday -Close</li>
+                            </ul>
+                        </div>
+                           
+                     
+                        <div class="upper-column info-box">
+						                        	<a href="#" class="quote-btn theme-btn btn-style-one">Appointment</a>
+                           
+						 </div>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <!--End Header Upper-->
+        
+        <!--Header Lower-->
+        <div class="header-lower">
+            
+        	<div class="auto-container">
+            	<div class="nav-outer clearfix">
+                    <!-- Main Menu -->
+                    <nav class="main-menu">
+                        <div class="navbar-header">
+                            <!-- Toggle Button -->    	
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        
+                        <div class="navbar-collapse collapse clearfix">
+                            <ul class="navigation clearfix">
+                                <li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-20 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-92 dropdown active"><a title="Home" href="http://www.old2.commonsupport.com/alicante/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Home</a>
+<ul role="menu" class="dropdown">
+	<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-20 current_page_item menu-item-83 active"><a title="Home One" href="http://www.old2.commonsupport.com/alicante/">Home One</a></li>
+	<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a title="Home Two" href="http://www.old2.commonsupport.com/alicante/home-two/">Home Two</a></li>
+	<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a title="Home Three" href="http://www.old2.commonsupport.com/alicante/home-three/">Home Three</a></li>
+	<li id="menu-item-589" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-589 dropdown"><a title="Header Style" href="#">Header Style</a>
+	<ul role="menu" class="dropdown">
+		<li id="menu-item-592" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-592 active"><a title="Header One" href="http://www.old2.commonsupport.com/alicante/">Header One</a></li>
+		<li id="menu-item-591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-591"><a title="Header Two" href="http://www.old2.commonsupport.com/alicante/?header_style=header_v3">Header Two</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-89 dropdown"><a title="About Us" href="http://www.old2.commonsupport.com/alicante/about-us-one/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">About Us</a>
+<ul role="menu" class="dropdown">
+	<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a title="About Us One" href="http://www.old2.commonsupport.com/alicante/about-us-one/">About Us One</a></li>
+	<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a title="About Us Two" href="http://www.old2.commonsupport.com/alicante/about-us-two/">About Us Two</a></li>
+</ul>
+</li>
+<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-86 dropdown"><a title="Pages" href="http://www.old2.commonsupport.com/alicante/pages/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Pages</a>
+<ul role="menu" class="dropdown">
+	<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a title="Sponsores" href="http://www.old2.commonsupport.com/alicante/sponsores/">Sponsores</a></li>
+	<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a title="404" href="http://www.old2.commonsupport.com/alicante/404-2/">404</a></li>
+</ul>
+</li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-79 dropdown"><a title="Events" href="http://www.old2.commonsupport.com/alicante/events/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Events</a>
+<ul role="menu" class="dropdown">
+	<li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a title="Events" href="http://www.old2.commonsupport.com/alicante/events/">Events</a></li>
+	<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a title="Events Single" href="http://www.old2.commonsupport.com/alicante/events-single/">Events Single</a></li>
+</ul>
+</li>
+<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-90 dropdown"><a title="Gallery" href="http://www.old2.commonsupport.com/alicante/gallery-3-column/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Gallery</a>
+<ul role="menu" class="dropdown">
+	<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a title="Gallery 3 Column" href="http://www.old2.commonsupport.com/alicante/gallery-3-column/">Gallery 3 Column</a></li>
+	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a title="Gallery Full Width" href="http://www.old2.commonsupport.com/alicante/gallery-full-width/">Gallery Full Width</a></li>
+</ul>
+</li>
+<li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a title="Shop" href="http://www.old2.commonsupport.com/alicante/shop/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Shop</a></li>
+<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-93 dropdown"><a title="Blog" href="http://www.old2.commonsupport.com/alicante/blog-classic/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Blog</a>
+<ul role="menu" class="dropdown">
+	<li id="menu-item-442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-442"><a title="Blog Classic" href="http://www.old2.commonsupport.com/alicante/blog-classic/page/3/">Blog Classic</a></li>
+	<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a title="Blog Grid" href="http://www.old2.commonsupport.com/alicante/blog-grid/">Blog Grid</a></li>
+	<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a title="Blog List" href="http://www.old2.commonsupport.com/alicante/blog-list/">Blog List</a></li>
+	<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-91"><a title="Single Post" href="http://www.old2.commonsupport.com/alicante/adventure-of-realistic-africa-arts-magna-volputate-aliqua-enim-3/">Single Post</a></li>
+</ul>
+</li>
+<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a title="Contact Us" href="http://www.old2.commonsupport.com/alicante/contact-us/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Contact Us</a></li>
+ 
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <!--End Header Lower-->
+        
+        <!--Sticky Header-->
+        <div class="sticky-header">
+        	<div class="auto-container clearfix">
+            	<!--Logo-->
+            	<div class="logo pull-left">
+                	                             <a href="http://www.old2.commonsupport.com/alicante/"><img src="http://www.old2.commonsupport.com/alicante/wp-content/themes/alicante/images/logo-small.png" alt="Theme"></a>
+                        	
+                </div>
+                
+                <!--Right Col-->
+                <div class="right-col pull-right">
+                	<!-- Main Menu -->
+                    <nav class="main-menu">
+                        <div class="navbar-header">
+                            <!-- Toggle Button -->    	
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        
+                        <div class="navbar-collapse collapse clearfix">
+                            <ul class="navigation clearfix">
+                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-20 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-92 dropdown active"><a title="Home" href="http://www.old2.commonsupport.com/alicante/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Home</a>
+<ul role="menu" class="dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-20 current_page_item menu-item-83 active"><a title="Home One" href="http://www.old2.commonsupport.com/alicante/">Home One</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a title="Home Two" href="http://www.old2.commonsupport.com/alicante/home-two/">Home Two</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a title="Home Three" href="http://www.old2.commonsupport.com/alicante/home-three/">Home Three</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-589 dropdown"><a title="Header Style" href="#">Header Style</a>
+	<ul role="menu" class="dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-592 active"><a title="Header One" href="http://www.old2.commonsupport.com/alicante/">Header One</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-591"><a title="Header Two" href="http://www.old2.commonsupport.com/alicante/?header_style=header_v3">Header Two</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-89 dropdown"><a title="About Us" href="http://www.old2.commonsupport.com/alicante/about-us-one/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">About Us</a>
+<ul role="menu" class="dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a title="About Us One" href="http://www.old2.commonsupport.com/alicante/about-us-one/">About Us One</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a title="About Us Two" href="http://www.old2.commonsupport.com/alicante/about-us-two/">About Us Two</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-86 dropdown"><a title="Pages" href="http://www.old2.commonsupport.com/alicante/pages/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Pages</a>
+<ul role="menu" class="dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a title="Sponsores" href="http://www.old2.commonsupport.com/alicante/sponsores/">Sponsores</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a title="404" href="http://www.old2.commonsupport.com/alicante/404-2/">404</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-79 dropdown"><a title="Events" href="http://www.old2.commonsupport.com/alicante/events/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Events</a>
+<ul role="menu" class="dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a title="Events" href="http://www.old2.commonsupport.com/alicante/events/">Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a title="Events Single" href="http://www.old2.commonsupport.com/alicante/events-single/">Events Single</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-90 dropdown"><a title="Gallery" href="http://www.old2.commonsupport.com/alicante/gallery-3-column/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Gallery</a>
+<ul role="menu" class="dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a title="Gallery 3 Column" href="http://www.old2.commonsupport.com/alicante/gallery-3-column/">Gallery 3 Column</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a title="Gallery Full Width" href="http://www.old2.commonsupport.com/alicante/gallery-full-width/">Gallery Full Width</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a title="Shop" href="http://www.old2.commonsupport.com/alicante/shop/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-93 dropdown"><a title="Blog" href="http://www.old2.commonsupport.com/alicante/blog-classic/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Blog</a>
+<ul role="menu" class="dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-442"><a title="Blog Classic" href="http://www.old2.commonsupport.com/alicante/blog-classic/page/3/">Blog Classic</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a title="Blog Grid" href="http://www.old2.commonsupport.com/alicante/blog-grid/">Blog Grid</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a title="Blog List" href="http://www.old2.commonsupport.com/alicante/blog-list/">Blog List</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-91"><a title="Single Post" href="http://www.old2.commonsupport.com/alicante/adventure-of-realistic-africa-arts-magna-volputate-aliqua-enim-3/">Single Post</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a title="Contact Us" href="http://www.old2.commonsupport.com/alicante/contact-us/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Contact Us</a></li>
+ 
+                            </ul>
+                        </div>
+                    </nav><!-- Main Menu End-->
+                </div>
+                
+            </div>
+        </div>
+        <!--End Sticky Header-->
+    
+    </header>
+    <!--End Main Header -->	
+	    <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element main-slider"><link href="http://fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.3.1.5 auto mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.3.1.5">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/image-1-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/image-1.jpg"  alt="" title="image-1"  width="1920" height="870" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-1-layer-1" 
+			 data-x="center" data-hoffset="" 
+			 data-y="center" data-voffset="-63" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><h4 class="text-center">100+ Arts in one place</h4> </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-1-layer-2" 
+			 data-x="center" data-hoffset="" 
+			 data-y="center" data-voffset="27" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><h2 class="text-center">Museum is the Place where you can see <br> wonder & Feel!</h2> </div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-1-layer-3" 
+			 data-x="center" data-hoffset="-5" 
+			 data-y="center" data-voffset="122" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><a href="#" class="theme-btn btn-style-two">Explore</a> </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-2" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/image-2-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/image-2.jpg"  alt="" title="image-2"  width="1920" height="874" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-2-layer-1" 
+			 data-x="center" data-hoffset="2" 
+			 data-y="center" data-voffset="-64" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><h4 class="white-text">welcome to our museum</h4> </div>
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-2-layer-2" 
+			 data-x="center" data-hoffset="" 
+			 data-y="445" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><h2>it’s not a museum. it’s place of ideas</h2> </div>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-2-layer-3" 
+			 data-x="center" data-hoffset="" 
+			 data-y="567" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><a href="contact.html" class="theme-btn btn-style-three">Read More</a> &ensp; <a href="contact.html" class="theme-btn btn-style-two">Explore</a> </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/image-3-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/image-3.jpg"  alt="" title="image-3"  width="1920" height="903" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 7 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-3-layer-1" 
+			 data-x="center" data-hoffset="1" 
+			 data-y="343" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><h4 class="text-center">Art is not what You see</h4> </div>
+
+		<!-- LAYER NR. 8 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-3-layer-2" 
+			 data-x="center" data-hoffset="2" 
+			 data-y="435" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><h2 class="text-center">Museume Is a Place Where One Should Lose <br> one’s head</h2> </div>
+
+		<!-- LAYER NR. 9 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-3-layer-3" 
+			 data-x="center" data-hoffset="" 
+			 data-y="567" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;"><a href="contact.html" class="theme-btn btn-style-two">Read More</a> &ensp; <a href="contact.html" class="theme-btn btn-style-three">Explore</a> </div>
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_1_1');
+					e.gridwidth = [1240];
+					e.gridheight = [868];
+							
+					e.sliderLayout = "auto";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi1;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_1_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_1_1");
+				}else{
+					revapi1 = tpj("#rev_slider_1_1").show().revolution({
+						sliderType:"standard",
+jsFileLocation:"//www.old2.commonsupport.com/alicante/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"auto",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							keyboardNavigation:"off",
+							keyboard_direction: "horizontal",
+							mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+							onHoverStop:"off",
+							arrows: {
+								style:"hesperiden",
+								enable:true,
+								hide_onmobile:false,
+								hide_onleave:false,
+								tmp:'',
+								left: {
+									h_align:"left",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								},
+								right: {
+									h_align:"right",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								}
+							}
+							,
+							bullets: {
+								enable:true,
+								hide_onmobile:false,
+								style:"hesperiden",
+								hide_onleave:false,
+								direction:"horizontal",
+								h_align:"center",
+								v_align:"bottom",
+								h_offset:0,
+								v_offset:20,
+								space:5,
+								tmp:''
+							}
+						},
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:1240,
+						gridheight:868,
+						lazyType:"none",
+						shadow:0,
+						spinner:"spinner0",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		<script>
+					var htmlDivCss = unescape(".hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3Argba%280%2C%200%2C%200%2C%201%29%3B%0A%7D%0A.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A20px%3B%0A%09color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82c%22%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82d%22%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A.hesperiden.tp-bullets%20%7B%0A%7D%0A.hesperiden.tp-bullets%3Abefore%20%7B%0A%09content%3A%22%20%22%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%20%20%20border-radius%3A8px%3B%0A%20%20%0A%7D%0A.hesperiden%20.tp-bullet%20%7B%0A%09width%3A12px%3B%0A%09height%3A12px%3B%0A%09position%3Aabsolute%3B%0A%09background%3A%20rgb%28153%2C%20153%2C%20153%29%3B%20%2F%2A%20old%20browsers%20%2A%2F%0A%20%20%20%20background%3A%20-moz-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2C%20rgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20ff3.6%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20chrome10%2B%2Csafari5.1%2B%20%2A%2F%0A%20%20%20%20background%3A%20-o-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20opera%2011.10%2B%20%2A%2F%0A%20%20%20%20background%3A%20-ms-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20ie10%2B%20%2A%2F%0A%20%20%20%20background%3A%20linear-gradient%28to%20bottom%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20w3c%20%2A%2F%0A%20%20%20%20filter%3A%20progid%3Adximagetransform.microsoft.gradient%28%20%0A%20%20%20%20startcolorstr%3D%22rgb%28153%2C%20153%2C%20153%29%22%2C%20endcolorstr%3D%22rgb%28225%2C%20225%2C%20225%29%22%2Cgradienttype%3D0%20%29%3B%20%2F%2A%20ie6-9%20%2A%2F%0A%09border%3A3px%20solid%20rgb%28229%2C%20229%2C%20229%29%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A.hesperiden%20.tp-bullet%3Ahover%2C%0A.hesperiden%20.tp-bullet.selected%20%7B%0A%09background%3Argb%28102%2C%20102%2C%20102%29%3B%0A%7D%0A.hesperiden%20.tp-bullet-image%20%7B%0A%7D%0A.hesperiden%20.tp-bullet-title%20%7B%0A%7D%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1494218396670"><div class="container"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"> <!--Museum Section-->
+    <section class="museum-section">
+    	<div class="auto-container">
+        	<div class="row clearfix">
+            	<!--Content Column-->
+                <div class="content-column pull-right col-md-6 col-sm-12 col-xs-12">
+					<div class="inner">
+						<!--Sec Title-->
+						<div class="sec-title">
+							<h3>HISTORY OF OUR MUSEUM</h3>
+							<h2>HISTORY OF OUR MUSEUM</h2>
+							<div class="separator"></div>
+						</div>
+						<div class="text">Ut Enim Ad Minim Veniam, Quis Nostrud Exercitation Ullamco Laboris Nisi Ut Aliquip Ex Ea Commodo Consequat. Duis Aute Irure Dolor In Reprehenderit In Voluptate Velit Esse Cillum Dolore Eu Fugiat Nulla Pariatur.Duis Aute Irure Dolor In Reprehenderit In Voluptate Vel Eu Fugiat Nulla Pariatur.</div>
+						<a href="" class="more-info">More Info  <span class="icon flaticon-right-arrow"></span></a>
+					</div>
+                </div>
+                <!--Image Column-->
+            	<div class="image-column pull-left col-md-6 col-sm-12 col-xs-12">
+                	<div class="image wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/muesem-1.png" alt="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">  <div class="museum-section">
+  <div class="auto-container">
+  <div class="info-section">
+	<div class="row clearfix">
+		<!--Column-->
+		   	 
+		<!--Column-->
+		<div class="info-column col-md-4 col-xs-12">
+			<div class="inner">
+				<h4>Museum Open</h4>
+				<h3>We are Open all day</h3>
+			</div>
+		</div>
+	 	 
+		<!--Column-->
+		<div class="info-column col-md-4 col-xs-12">
+			<div class="inner">
+				<h4>Events Mangement</h4>
+				<h3>We are Open all day</h3>
+			</div>
+		</div>
+	 	 
+		<!--Column-->
+		<div class="info-column col-md-4 col-xs-12">
+			<div class="inner">
+				<h4>Exhibition Open</h4>
+				<h3>We are Open all day</h3>
+			</div>
+		</div>
+	  
+	</div>
+</div>
+</div>
+</div>
+	
+	
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"> <!--About Museum-->
+    <section class="about-museum" style="background-image:url(http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-3.jpg);">
+    	<div class="auto-container">
+        	<!--Sec Title-->
+            <div class="sec-title">
+                <h3>ABOUT OUR MUSEUM</h3>
+                <h2>ON VIEW OF MUSEUM</h2>
+                <div class="separator"></div>
+                <div class="text">Then one day he was shooting at some food and up through the ground came a bubbling crude oil that is so lets make the most of this beautiful day since we are together space.</div>
+            </div>
+            
+           <div class="row clearfix">
+           	<!--video column-->
+           	<div class="video-column col-md-6 col-sm-12 col-xs-12">
+                <div class="video-box">
+                    <figure class="image">
+                <img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/video-1.jpg" alt="">
+                    </figure>
+                    <a href="" class="lightbox-image overlay-box"><span class="flaticon-arrow"></span></a>
+                </div>
+            </div>
+            <!--Content Column-->
+            <div class="content-column col-md-6 col-sm-12 col-xs-12">
+                <div class="inner">
+                	<h3>ARTS OF GLOBALLY COVERD</h3>
+                    <div class="text">Then one day he was shooting at some food and up through the ground came a bubbling crude oil that is so lets make the most of this beautiful.</div>
+                    <div class="row clearfix">
+                        <div class="column col-md-4 col-sm-6 col-xs-12">
+                        	<!--List Style One-->
+                            <ul class="list-style-one">
+                            		
+								<li><a href="#"></a></li>
+                               
+                            </ul>
+                        </div>
+                        <div class="column col-md-4 col-sm-6 col-xs-12">
+                            <!--List Style One-->
+                            <ul class="list-style-one">
+            		
+			<li><a href="#"></a></li>
+                               
+                            </ul>
+                        </div>
+                        <div class="column col-md-4 col-sm-6 col-xs-12">
+                            <!--List Style One-->
+                            <ul class="list-style-one">
+           		
+								<li><a href="#"></a></li>
+                               
+                            </ul>
+                        </div>
+                    </div>
+                    <a href="" class="read-more">More Details &ensp;<span class="icon fa fa-long-arrow-right"></span></a>
+                </div>
+            </div>
+           </div>     
+        </div>
+    </section>
+    <!--About Museum-->
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">   
+
+<!--This is All Five event Section Asset of Rashid-->
+
+ <!--Events Section-->
+    <section class="events-section">
+    	<div class="auto-container">
+        	<!--Sec Title-->
+                
+			<div class="sec-title">
+                 <h3></h3>
+                 <h2>UPCOMING EVENTS</h2>
+                <div class="separator"></div>
+                <div class="text">Then one day he was shooting at some food and up through the ground came a bubbling crude oil that is so lets make the most of this beautiful day since we are together space.</div>
+            </div>
+		                <div class="row clearfix">
+            	<!--Content Column-->
+            	<div class="content-column col-lg-6 col-md-8 col-sm-12 col-xs-12">
+                	<div class="inner clearfix">
+                    	<!--Event Blog-->
+                   
+					    <div class="event-block">
+                        	<div class="inner-box">
+                            	<div class="title-box">
+                                	<h3><a href="">NATIONAL CAR MUSEUM</a></h3>
+                                    <div class="event-date">9:15 am - 10:00 pm</div>
+                                </div>
+                                <div class="lower-box" style="background-image:url(http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/event-2.jpg);">
+                                	<div class="text">Then one day he was shooting at some food and up through the ground came ...</div>
+                                </div>
+                                <div class="event-date-box">
+                                	<div class="date">JANUARY 14 , 2017</div>
+                                    <div class="event-place">Sydney, Australia</div>
+                                </div>
+                            </div>
+                        </div>
+						
+                       
+					    <div class="event-block">
+                        	<div class="inner-box">
+                            	<div class="title-box">
+                                	<h3><a href="">BRITISH INSTRUMENTAL MUSEUM</a></h3>
+                                    <div class="event-date">9:15 am - 10:00 pm</div>
+                                </div>
+                                <div class="lower-box" style="background-image:url(http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/event-2.jpg);">
+                                	<div class="text">Then one day he was shooting at some food and up through the ground came ...</div>
+                                </div>
+                                <div class="event-date-box">
+                                	<div class="date">JANUARY 14 , 2017</div>
+                                    <div class="event-place">Lords, London</div>
+                                </div>
+                            </div>
+                        </div>
+						
+                     
+                        
+            <a class="view-all" href="">View All &ensp;<span class="icon fa fa-long-arrow-right"></span></a>
+			                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Image Box-->
+        <div class="image-box">
+        	<div class="image wow slideInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+            	<img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/event-1.png" alt="" />
+            </div>
+        </div>
+    </section>
+    <!--End Events Section-->
+    
+
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"> 
+
+   
+
+    <section class="testimonial-section" style="background-image:url(http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/2.png);">
+    	<div class="auto-container">
+        	
+            <!--Client Testimonial Carousel-->
+            <div class="client-testimonial-carousel owl-carousel owl-theme">
+                            <!--Testimonial Block Two-->
+                <div class="testimonial-block-two">
+                    <div class="inner-box">
+                    	<div class="quote-icon"><span class="icon flaticon-left-quote"></span></div>
+                        <div class="text">Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae&#8230;Sed ut perspiciatis, ...</div>
+                    </div>
+                </div>
+			                <!--Testimonial Block Two-->
+                <div class="testimonial-block-two">
+                    <div class="inner-box">
+                    	<div class="quote-icon"><span class="icon flaticon-left-quote"></span></div>
+                        <div class="text">Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae&#8230;Sed ut perspiciatis, ...</div>
+                    </div>
+                </div>
+			                <!--Testimonial Block Two-->
+                <div class="testimonial-block-two">
+                    <div class="inner-box">
+                    	<div class="quote-icon"><span class="icon flaticon-left-quote"></span></div>
+                        <div class="text">Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae&#8230;Sed ut perspiciatis, ...</div>
+                    </div>
+                </div>
+					
+				
+            </div>
+            
+            <!--Client Thumbs Carousel-->
+            <div class="client-thumb-outer">
+                <div class="client-thumbs-carousel owl-carousel owl-theme">
+                    
+					
+                    <div class="thumb-item">
+                    	<figure class="thumb-box"> <img width="80" height="80" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-3.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-3.jpg 80w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-3-55x55.jpg 55w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-3-70x70.jpg 70w" sizes="(max-width: 80px) 100vw, 80px" /></figure>
+                        <div class="thumb-content">
+                        	<h3>David Warner</h3>
+	                        <div class="designation">Visiter</div>
+                        </div>
+                    </div>
+					
+                    <div class="thumb-item">
+                    	<figure class="thumb-box"> <img width="80" height="80" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-1.jpg 80w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-1-55x55.jpg 55w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-1-70x70.jpg 70w" sizes="(max-width: 80px) 100vw, 80px" /></figure>
+                        <div class="thumb-content">
+                        	<h3>David Warner</h3>
+	                        <div class="designation">Visiter</div>
+                        </div>
+                    </div>
+					
+                    <div class="thumb-item">
+                    	<figure class="thumb-box"> <img width="80" height="80" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-2.jpg 80w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-2-55x55.jpg 55w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/author-2-70x70.jpg 70w" sizes="(max-width: 80px) 100vw, 80px" /></figure>
+                        <div class="thumb-content">
+                        	<h3>David Warner</h3>
+	                        <div class="designation">Visiter</div>
+                        </div>
+                    </div>
+					
+					
+                </div>
+            </div>
+            
+        </div>
+    </section>
+
+	
+
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">   
+   
+             
+	<!--News Section-->
+    <section class="news-section blog_custom">
+    	<div class="auto-container">
+        	
+                      <div class="sec-title">
+                <h3>RECENT NEWS</h3>
+                <h2>LATEST NEWS</h2>
+                <div class="separator"></div>
+                <div class="text">Then one day he was shooting at some food and up through the ground came a bubbling crude oil that is so lets make the most of this beautiful day since we are together space.</div>
+            </div>
+			
+             
+            
+			<!--blog Post-->
+            <div class="blog-post">
+                <div class="row clearfix">
+                    <!--Image Column-->
+                    <div class="image-column col-md-6 col-sm-12 col-xs-12">
+                        <div class="image">
+                            <a href="http://www.old2.commonsupport.com/alicante/africa-arts-magna-volputate-aliqua/"><img width="571" height="428" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/news-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/news-1.jpg 571w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/news-1-300x225.jpg 300w" sizes="(max-width: 571px) 100vw, 571px" /></a>
+                        </div>
+                    </div>
+                    <!--Content Column-->
+                    <div class="content-column col-md-6 col-sm-12 col-xs-12">
+                        <div class="inner">
+                            <div class="upper-box">
+                                <div class="news-time"><span>08</span>- May , 2017</div>
+                                <h3><a href="http://www.old2.commonsupport.com/alicante/africa-arts-magna-volputate-aliqua/">Africa Arts magna volputate aliquas</a></h3>
+                            </div>
+                            <div class="lower-box">
+                                <ul class="post-meta">
+									<li>Posted by :  admin</li>
+									<li><a href="#"><span class="icon fa fa-user"></span> </a></li>
+									<li><a href="#"><span class="icon fa fa-commenting-o"></span>Comment 0 </a></li>
+								</ul>
+                                <div class="text">
+                                    <p>Consectetur adipisicing elit, sed do eiusmod temporagi incididunt ut labore et dolore magna aliqsua quis nostrud exercitation.Consectetur adipisicing elit, sed do eiusmod temporagi incididunt ut labore et dolore magna aliqsua quis nostrud exercitation.Consectetur adipisicing elit, sed do eiusmod temporagi incididunt ut labore et dolore magna aliqsua quis nostrud exercitation. Consectetur adipisicing elit, sed do eiusmod</p>
+                                </div>
+                                <a class="read-more" href="http://www.old2.commonsupport.com/alicante/africa-arts-magna-volputate-aliqua/">Read More<span class="icon fa fa-long-arrow-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				
+            </div>
+				        </div>
+    </section>
+    <!--End News Section-->		
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid">
+
+<div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">	 
+
+<!--portfolio Section-->
+   <!--Gallery Section / Full Width Section-->
+    <section class="gallery-section full-width-section" style="background-image:url(http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-8.jpg);">
+    
+    	<div class="auto-container">
+        	<!--Sec Title-->
+                 
+			<div class="sec-title">
+                 <h3>RECENT CLICKS</h3>
+                 <h2>OUR GALLERY</h2>
+                <div class="separator"></div>
+                <div class="text"></div>
+            </div>
+		            </div>
+        
+        <!--Sortable Gallery-->
+        <div class="mixitup-gallery">
+        
+            <!--Filter-->
+            <div class="filters clearfix">
+                <ul class="filter-tabs filter-btns text-center">
+                    <li class="filter active" data-role="button" data-filter="all">All Projects</li>
+                    
+			<li class="filter" data-role="button" data-filter=".others">Others</li>
+                     
+			<li class="filter" data-role="button" data-filter=".vintage-art">Vintage Art</li>
+                     
+			<li class="filter" data-role="button" data-filter=".ancient-statue">Ancient Statue</li>
+                     
+			<li class="filter" data-role="button" data-filter=".modern-art">Modern Art</li>
+                    
+                </ul>
+            </div>
+            
+            <div class="filter-list clearfix">
+			
+						
+           
+		        
+          <div class="default-portfolio-item mix all others vintage-art  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all ancient-statue modern-art others  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all ancient-statue modern-art  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all ancient-statue modern-art  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="http://localhost/alicante/wp-admin/post.php?post=223&#038;action=edit" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="http://localhost/alicante/wp-admin/post.php?post=223&#038;action=edit">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all modern-art others  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all modern-art others  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all ancient-statue vintage-art  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/7.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/7.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href="">Modern Ancient Statue</a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+				
+           
+		        
+          <div class="default-portfolio-item mix all vintage-art  col-md-3 col-xs-12">
+				<div class="inner-box">
+					<figure class="image-box"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></figure>
+					<!--Overlay Box-->
+					<div class="overlay-box">
+						<div class="overlay-inner">
+							<div class="content">
+								<a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="lightbox-image image-link" data-fancybox-group="example-portfolio" title="Photography"><span class="icon fa fa-expand"></span></a>
+								<a href="" class="image-link"><span class="icon fa fa-link"></span></a>
+								<h3><a href=""></a></h3>
+								<div class="category">Photography</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+           
+  
+   
+             </div>
+			 <br><br><br>
+    		
+        </div>
+        <!--End Sortable Gallery-->
+    </section>
+    <!--End Gallery Section-->
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">   
+  
+
+     <section class="sponsors-section">
+    	<div class="auto-container">
+        	<div class="carousel-outer">
+                <!--Sponsors Slider-->
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                     
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                      
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                      
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                      
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/10-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                      
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                      
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                      
+					<li><div class="image-box"><a href=""><img width="210" height="100" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/10.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></div></li>
+                       
+                </ul>
+            </div>
+    	</div>
+    </section>
+	
+	
+</div></div></div></div>
+	<!--Mian Footer-->
+	
+   <!--Main Footer-->
+    <footer class="main-footer">
+    	<div class="auto-container">
+        	
+		 	
+            <div class="upper-box">
+            	<div class="logo-box">
+                	                             <a href="http://www.old2.commonsupport.com/alicante/"><img src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/06/logo_footer.png" alt="Theme" title="Theme"></a>
+                        	
+                </div>
+            </div>
+			
+         
+            <div class="widgets-section">
+                <!--Big Column-->
+				    
+				   						<div class="row clearfix">
+							<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"> <div id="bunch_about_us-2"  class="posts-widget footer-widget widget_bunch_about_us">      		<div class="footer-column">
+				<div class="footer-widget about-widget">
+			<h2>About Museum</h2>					<!--Widget Content-->
+					<div class="widget-content">
+						<div class="bold-text">The Museum Specialists!</div>
+						 <div class="text">Aorem ipsum dolor sit amet elit sed lum tempor incididunt ut labore el dolore alg minim veniam quis nostrud lorem psum dolor sit amet sed incididunt.</div>
+						<a href="https://tonatheme.com/m3/alicante/about-us-one/" class="read-more">Read More &ensp;<span class="icon flaticon-right-arrow"></span></a>
+					</div>
+				</div>
+			</div>
+		</div></div><div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"> <div id="text-2"  class="posts-widget footer-widget widget_text"><h2>Quick Links</h2>			<div class="textwidget"><ul class="list">
+                                            <li><a href="#">About Our Museum</a></li>
+                                            <li><a href="#">On View Of Museum</a></li>
+                                            <li><a href="#">Upcoming Exhibitions</a></li>
+                                            <li><a href="#">Our Latest News</a></li>
+                                            <li><a href="#">Latest Clicks of Museum</a></li>
+                                        </ul></div>
+		</div></div><div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"> <div id="bunch_conatct_info-2"  class="posts-widget footer-widget widget_bunch_conatct_info">        <!--Footer Column / Address Widget-->
+		<div class="footer-widget info-widget">
+		<h2>Keep In Touch</h2>			<!--Widget Content-->
+			<div class="widget-content">
+				<!--Contact Info-->
+				<ul class="contact-info">
+					<li><div class="icon"><span class="flaticon-location-pin"></span></div>Collins Street West,121 <br />
+King Street, Melbourne.</li>
+					<li><div class="icon"><span class="flaticon-technology-1"></span></div>+(11)123 456 7890,</li>
+					<li><div class="icon"><span class="flaticon-interface"></span></div>info@museum.com</li>
+				</ul>
+			</div>
+		</div>
+
+		</div></div><div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"> <div id="bunch_footer_gallery_post-2"  class="posts-widget footer-widget widget_bunch_footer_gallery_post">		
+		<div class="gallery-widget">
+            <h2>Gallery Widget</h2>             <div class="widget-content">
+                <div class="images-outer clearfix">
+			        
+        
+				                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/1-7-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/8-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/7.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/7.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/7.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/7-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/6-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                <figure class="image-box"><a href="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg" class="lightbox-image" title="Image Title Here" data-fancybox-group="footer-gallery"><img width="481" height="419" src="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5.jpg 481w, http://www.old2.commonsupport.com/alicante/wp-content/uploads/2017/05/5-300x261.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a></figure>
+                                
+                     </div> 
+			 </div>
+        </div>
+        
+        </div></div>						</div>
+					 
+					
+             </div>
+				 
+        </div>
+      
+         
+        <div class="footer-bottom">
+        	<div class="auto-container">
+            	<div class="row clearfix">
+                	<div class="column col-md-6 col-sm-12 col-xs-12">
+                    	<div class="copyright">All right Reserved Allicante  || 2017 </div>
+                    </div>
+ 	
+                    <div class="column col-md-6 col-sm-12 col-xs-12">
+                    	<div class="social-links">
+                             
+							<a href=""><span class="fa fa-facebook"></span></a>
+                              
+							<a href="#"><span class="fa fa-twitter"></span></a>
+                              
+							<a href="#"><span class="fa fa-google-plus"></span></a>
+                              
+							<a href="#"><span class="fa fa-linkedin"></span></a>
+                                                 </div>
+                    </div>
+				             	
+                </div>
+            </div>
+        </div>
+			
+    </footer>
+    <!--End Main Footer-->
+	
+</div>";s:4:"code";N;s:5:"title";s:4:"home";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}
