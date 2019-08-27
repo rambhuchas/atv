@@ -54,11 +54,11 @@ return [
 
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => 'localhost',
+            'host'      => 'rambhuchas-dev.conmgyficnit.ap-south-1.rds.amazonaws.com',
             'port'      => 3306,
             'database'  => 'dev_01_athivaradar',
             'username'  => 'root',
-            'password'  => '',
+            'password'  => 'root1234',
             'charset'   => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
             'prefix'    => '',

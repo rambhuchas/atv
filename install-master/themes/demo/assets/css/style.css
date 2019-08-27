@@ -1017,7 +1017,7 @@ img{
     width: 360px;
     height: 30px;
 	margin:0 auto;
-    background: url(images/resource/separater.png) center center no-repeat;
+    background: url(../images/separater.png) center center no-repeat;
 }
 
 .sec-title .separator-two{
