@@ -1,0 +1,163 @@
+body,p {
+	opacity:1;
+	visibility:visible;
+	-webkit-transition:opacity 0.24s ease-in-out;
+	-moz-transition:opacity 0.24s ease-in-out;
+	transition:opacity 0.24s ease-in-out;
+}
+.wf-loading body,p {
+	opacity:0;
+}
+.ie.wf-loading body,p {
+	visibility:hidden;
+}
+ h1,h2,h3,h4,h5,h6		 {
+	opacity:1;
+	visibility:visible;
+	-webkit-transition:opacity 0.24s ease-in-out;
+	-moz-transition:opacity 0.24s ease-in-out;
+	transition:opacity 0.24s ease-in-out;
+}
+.wf-loading  h1,h2,h3,h4,h5,h6	 {
+	opacity:0;
+}
+.ie.wf-loading  h1,h2,h3,h4,h5,h6	 {
+	visibility:hidden;
+}
+ h1	 {
+	opacity:1;
+	visibility:visible;
+	-webkit-transition:opacity 0.24s ease-in-out;
+	-moz-transition:opacity 0.24s ease-in-out;
+	transition:opacity 0.24s ease-in-out;
+}
+.wf-loading  h1 {
+	opacity:0;
+}
+.ie.wf-loading  h1 {
+	visibility:hidden;
+}
+ h2	 {
+	opacity:1;
+	visibility:visible;
+	-webkit-transition:opacity 0.24s ease-in-out;
+	-moz-transition:opacity 0.24s ease-in-out;
+	transition:opacity 0.24s ease-in-out;
+}
+.wf-loading  h2 {
+	opacity:0;
+}
+.ie.wf-loading  h2 {
+	visibility:hidden;
+}
+ h3 {
+	opacity:1;
+	visibility:visible;
+	-webkit-transition:opacity 0.24s ease-in-out;
+	-moz-transition:opacity 0.24s ease-in-out;
+	transition:opacity 0.24s ease-in-out;
+}
+.wf-loading  h3  {
+	opacity:0;
+}
+.ie.wf-loading  h3  {
+	visibility:hidden;
+}
+ h4	 {
+	opacity:1;
+	visibility:visible;
+	-webkit-transition:opacity 0.24s ease-in-out;
+	-moz-transition:opacity 0.24s ease-in-out;
+	transition:opacity 0.24s ease-in-out;
+}
+.wf-loading  h4 {
+	opacity:0;
+}
+.ie.wf-loading  h4 {
+	visibility:hidden;
+}
+ h5		 {
+	opacity:1;
+	visibility:visible;
+	-webkit-transition:opacity 0.24s ease-in-out;
+	-moz-transition:opacity 0.24s ease-in-out;
+	transition:opacity 0.24s ease-in-out;
+}
+.wf-loading  h5	 {
+	opacity:0;
+}
+.ie.wf-loading  h5	 {
+	visibility:hidden;
+}
+ h6		 {
+	opacity:1;
+	visibility:visible;
+	-webkit-transition:opacity 0.24s ease-in-out;
+	-moz-transition:opacity 0.24s ease-in-out;
+	transition:opacity 0.24s ease-in-out;
+}
+.wf-loading  h6	 {
+	opacity:0;
+}
+.ie.wf-loading  h6	 {
+	visibility:hidden;
+}
+.apple_menu>ul>li>a, .heading_style_2 .apple_menu>ul>li>a, .heading_style_3 .apple_menu>ul>li>a, .heading_style_4 .apple_menu>ul>li>a, .heading_style_3.tr_btn .apple_menu>ul>li>a, .heading_style_3.tr_white_btn .apple_menu>ul>li>a, .heading_style_5 .apple_menu>ul>li>a  {
+	opacity:1;
+	visibility:visible;
+	-webkit-transition:opacity 0.24s ease-in-out;
+	-moz-transition:opacity 0.24s ease-in-out;
+	transition:opacity 0.24s ease-in-out;
+}
+.wf-loading  .apple_menu>ul>li>a, .heading_style_2 .apple_menu>ul>li>a, .heading_style_3 .apple_menu>ul>li>a, .heading_style_4 .apple_menu>ul>li>a, .heading_style_3.tr_btn .apple_menu>ul>li>a, .heading_style_3.tr_white_btn .apple_menu>ul>li>a, .heading_style_5 .apple_menu>ul>li>a			 {
+	opacity:0;
+}
+.ie.wf-loading  .apple_menu>ul>li>a, .heading_style_2 .apple_menu>ul>li>a, .heading_style_3 .apple_menu>ul>li>a, .heading_style_4 .apple_menu>ul>li>a, .heading_style_3.tr_btn .apple_menu>ul>li>a, .heading_style_3.tr_white_btn .apple_menu>ul>li>a, .heading_style_5 .apple_menu>ul>li>a			 {
+	visibility:hidden;
+}
+			.apple_nav_area.prefix,			.hbg2  {
+	background-color:#3d017a;
+}
+ .apple_menu ul .sub-menu li a  {
+	opacity:1;
+	visibility:visible;
+	-webkit-transition:opacity 0.24s ease-in-out;
+	-moz-transition:opacity 0.24s ease-in-out;
+	transition:opacity 0.24s ease-in-out;
+}
+.wf-loading  .apple_menu ul .sub-menu li a			 {
+	opacity:0;
+}
+.ie.wf-loading  .apple_menu ul .sub-menu li a			 {
+	visibility:hidden;
+}
+.breadcumb-area,.breadcumb-blog-area {
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:scroll;
+	background-position:center center;
+	background-image:url('http://webitkurigram.com/wpv/apple/wp-content/uploads/2019/08/brd.jpg');
+}
+.brpt h2,.breadcumb-inner h2 {
+	color:#ffffff;
+}
+.breadcumb-inner ul,.breadcumb-inner li,.breadcumb-inner li a {
+	color:#ffffff;
+	opacity:1;
+	visibility:visible;
+	-webkit-transition:opacity 0.24s ease-in-out;
+	-moz-transition:opacity 0.24s ease-in-out;
+	transition:opacity 0.24s ease-in-out;
+}
+.wf-loading .breadcumb-inner ul,.breadcumb-inner li,.breadcumb-inner li a {
+	opacity:0;
+}
+.ie.wf-loading .breadcumb-inner ul,.breadcumb-inner li,.breadcumb-inner li a {
+	visibility:hidden;
+}
+.breadcumb-inner li:nth-last-child(-n+1) {
+	color:#ffffff;
+}
+			.single-video::before  {
+	background-color: rgba(0,0,0,0.3);
+}
