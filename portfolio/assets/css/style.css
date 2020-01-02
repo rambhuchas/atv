@@ -2004,11 +2004,11 @@ a.comment-edit-link {
 	font-size: 34px;
 	height: 60px;
 	line-height: 60px;
-	right: 30px;
+	left: 30px;
 	text-align: center;
 	width: 60px;
 	border-radius: 100%;
-	background:#3D017A;
+	background:#873dd2;
 	transition:.3s;
 }
 #scrollUp:hover{
@@ -2130,7 +2130,8 @@ a.comment-edit-link {
 
 .mean-container .mean-bar {
 	float: none;
-	background: #FE8264 none repeat scroll 0 0;
+	background: #e206db none repeat scroll 0 0;
+	border-bottom: 1px solid #fff;
 }
 
 .mean-container .mean-nav ul li li a {
@@ -7244,7 +7245,7 @@ h2.related-projects-title.text-left {
 	position: absolute;
 	left: 23px;
 	bottom: 215px;
-	background: url(assets/images/s-shape-3.png);
+	background: url(../images/s-shape-3.png);
 	background-repeat: no-repeat;
 	height: 430px;
 	width: 121px;
@@ -7383,7 +7384,7 @@ h2.related-projects-title.text-left {
 	position: absolute;
 	left: 163px;
 	bottom: 32px;
-	background: url(assets/images/s-shape-1.png);
+	background: url(../images/s-shape-1.png);
 	background-repeat: no-repeat;
 	height: 430px;
 	width: 121px;
@@ -7397,7 +7398,7 @@ h2.related-projects-title.text-left {
 	position: absolute;
 	left: 81px;
 	bottom: 129px;
-	background: url(assets/images/s-shape-2.png);
+	background: url(../images/s-shape-2.png);
 	background-repeat: no-repeat;
 	height: 430px;
 	width: 121px;
